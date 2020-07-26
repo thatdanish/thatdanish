@@ -5,7 +5,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/mohd-danish-khursheed-1a5793177/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-<a href="https://twitter.com/that_danish1"><img src="https://img.shields.io/twitter/follow/that_danish1?style=social"></a>
+<a href="https://twitter.com/that_danish1"><img src="https://img.shields.io/twitter/follow/that_danish1?label=Follow%20%21&style=social"></a>
 </p>
 <br>
 
