@@ -1,4 +1,4 @@
-### Hi there, How's life treating you! 👋
+## Hi there, How's life treating you! 👋
 
 <!--
 **thatdanish/thatdanish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently working/learning ML/Deep Learning ...  
-I am a undergrad,(junior year) in Electronics Engineering and have sufficient courage to be on GitHub among all you coders. :p
+#### 🔭 I’m currently working/learning ML/Deep Learning ...  
+#### I am a undergrad,(junior year) in Electronics Engineering and have sufficient courage to exist on GitHub among all you coders. :p
