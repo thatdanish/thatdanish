@@ -13,9 +13,9 @@
   <a href="https://github.com/thatdanish/"><img src="https://img.shields.io/badge/python-DAA520.svg?style=for-the-badge&logo=python&logoColor=black" alt="python"></a>
 	<a href="https://github.com/thatdanish/"><img src="https://img.shields.io/badge/tensorflow-FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="tensorflow"></a>
 	<a href="https://github.com/thatdanish/"><img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="git"></a>
-	[forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
+	a href="https://github.com/thatdanish/"><img src="https://forthebadge.com/images/badges/built-with-love.svg"></a>
+	
 </p><br>
-[forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
 
 <p align="center">
 <a href="https://github.com/drhorseman/dotfiles_ikigai">
