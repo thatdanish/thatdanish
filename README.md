@@ -4,9 +4,8 @@
 
 
 <p align="center">
-<a href="https://github.com/thatdanish"><img src="https://img.shields.io/github/followers/drhorseman?label=Followers&logo=github&style=social" alt="GitHub"></a>
-<a href="https://github.com/thatdanish"><img src="https://img.shields.io/github/watchers/drhorseman/drhorseman?style=social" alt="watchers"></a>
 <a href="https://www.linkedin.com/in/mohd-danish-khursheed-1a5793177/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+<a href="https://twitter.com/that_danish1"><img src="https://img.shields.io/twitter/follow/that_danish1?style=social"></a>
 </p>
 <br>
 
@@ -14,8 +13,8 @@
   <a href="https://github.com/thatdanish/"><img src="https://img.shields.io/badge/python-DAA520.svg?style=for-the-badge&logo=python&logoColor=black" alt="python"></a>
 	<a href="https://github.com/thatdanish/"><img src="https://img.shields.io/badge/tensorflow-FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="tensorflow"></a>
 	<a href="https://github.com/thatdanish/"><img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="git"></a>
+	[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 </p><br>
-
 
 
 <p align="center">
