@@ -15,7 +15,7 @@
 	<a href="https://github.com/thatdanish/"><img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="git"></a>
 	[forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
 </p><br>
-
+[forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
 
 <p align="center">
 <a href="https://github.com/drhorseman/dotfiles_ikigai">
