@@ -1,6 +1,6 @@
 ## Hi there, How's life treating you! 👋  
 #### 🔭 I’m currently working/learning ML/Deep Learning ...  
-#### _I am an undergrad,(senior year) in Electronics Engineering and have sufficient courage to exist on GitHub among all you coders. :p_ 
+#### _I am a Master's student at Technical University of Dresden. 
 
 
 <p align="center">
