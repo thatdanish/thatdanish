@@ -1,6 +1,6 @@
 ## Hi there, How's life treating you! 👋  
 #### 🔭 I’m currently working/learning ML/Deep Learning ...  
-#### _I am a Master's student at Technical University of Dresden. 
+#### I am a Master's student at Technical University of Dresden. 
 
 
 <p align="center">
