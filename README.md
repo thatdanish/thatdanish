@@ -1,6 +1,7 @@
 ## Hi there, How's life treating you! 👋  
-#### 🔭 I’m currently working/learning ML/Deep Learning ...  
-#### I am a Master's student at Technical University of Dresden. 
+#### 🎓I am a Master's student at Technical University of Dresden, specialiazing in Nanoelectronic Systems. 
+####  I am interseted in machine learning, digital IC design, FPGA programming etc ...
+#### If our interesets coinside, I will be more than happy to connect 😊.
 
 
 <p align="center">
