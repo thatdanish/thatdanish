@@ -1,7 +1,7 @@
 ## Hi there !👋  
 #### Currently, I am pursuing my master's degree at Technische Universität Dresden (TUD) with specialiazation in Nanoelectronic Systems. 
-#### I have my keen intrestes in ASIC design, FPGA programming, machine learning (ML) and other similar domains.
-#### If our interesets coinside, I will be more than happy to connect 😊.
+#### I have my keen intrestes in ASIC design, FPGA programming, machine learning (ML) and other similar domains. If we share our fonds, I will be happy to connect 😊.
+#### 
 
 
 <p align="center">
