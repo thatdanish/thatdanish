@@ -1,6 +1,6 @@
-## Hi there, How's life treating you! 👋  
-#### 🎓I am a Master's student at Technical University of Dresden, specialiazing in Nanoelectronic Systems. 
-####  I am interseted in machine learning, digital IC design, FPGA programming etc ...
+## Hi there !👋  
+#### Currently, I am a master's student at Technische Universität Dresden (TUD), specialiazing in Nanoelectronic Systems. 
+#### I am interseted in machine learning, ASIC design, FPGA programming and other similar domanis.
 #### If our interesets coinside, I will be more than happy to connect 😊.
 
 
