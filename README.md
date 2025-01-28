@@ -10,15 +10,16 @@
 <p align="center">
 	<br>
 	<a href="https://github.com/thatdanish/"><img src="https://img.shields.io/badge/Digital%20ASIC%2FFPGA%20Design-orange?style=for-the-badge" alt="digital_ic_desgin" ></a>
-	<a href="https://github.com/thatdanish/"><img <img alt="Static Badge" src="https://img.shields.io/badge/Chisel-blue?style=for-the-badge" alt="chisel"></a>
 	<a href="https://github.com/thatdanish/"><img src="https://img.shields.io/badge/System%20Verilog-green?style=for-the-badge" alt="systemv"></a>
+	<a href="https://github.com/thatdanish/"><img <img alt="Static Badge" src="https://img.shields.io/badge/Chisel-blue?style=for-the-badge" alt="chisel"></a>
+	</br>
   	<a href="https://github.com/thatdanish/"><img src="https://img.shields.io/badge/python-DAA520.svg?style=for-the-badge&logo=python&logoColor=black" alt="python"></a>
 	<a href="https://github.com/thatdanish/"><img src="https://img.shields.io/badge/tensorflow-FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="tensorflow"></a>
 	<a href="https://github.com/thatdanish/"><img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="git"></a>
 	<br>
 	<a href="https://github.com/thatdanish/"><img src="https://forthebadge.com/images/badges/built-with-love.svg"></a>
 	
-</p><br>
+</p></br>
 
 <p align="center">
 <a href="https://github.com/drhorseman/dotfiles_ikigai">
